@@ -1,5 +1,3 @@
-(Multi-Cycle, Pipelined, Hazard-Free Processor)
-
 # Multi-Cycle Pipelined Hazard-Free Processor – SystemVerilog
 
 ## 📌 Project Overview
