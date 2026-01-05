@@ -1,0 +1,42 @@
+# ===============================
+# Vivado generated files
+# ===============================
+.Xil/
+*.cache/
+*.runs/
+*.hw/
+*.ip_user_files/
+
+# Vivado logs and journals
+*.jou
+*.log
+*.str
+
+# Simulation & synthesis outputs
+*.wdb
+*.pb
+*.bit
+*.bin
+*.ltx
+*.dcp
+
+# Reports and checkpoints
+*.rpt
+
+# Temporary / backup files
+*.tmp
+*.bak
+*.swp
+
+# ===============================
+# OS specific
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Editor / IDE settings
+# ===============================
+.vscode/
+.idea/
+*.iml
